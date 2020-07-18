@@ -1,0 +1,22 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gt_url": "https://github.com/codingthunder",
+    "blog_name": "begineer_coder",
+    "web_name": "Lets get started",
+    "heading": "Resume",
+    "title": "A Walk through Engineering",
+    "tag_line": "A platform for all programmers",
+    "email": "sjsaurav22@gmail.com",
+    "pass": "##########",
+    "no_of_posts": 2,
+    "login_image": "data.svg",
+    "admin_user": "saurav",
+    "admin_pass": "hello",
+    "upload_location":"C:\\Users\\gaurav\\PycharmProjects\\web development python\\static"
+  }
+}

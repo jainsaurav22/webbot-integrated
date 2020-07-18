@@ -1,0 +1,18 @@
+1.command:rasa run actions
+-to run custom actions for fetching certain information from the api.
+
+2.command:rasa shell
+- to run chatbot in the command prompt
+
+3.command: rasa train
+- to train the chatbot with the newly trained data or stories.
+
+4.command: rasa run -m models --enable-api --cors "*" --debug
+- to integrate the chatbot with the webpage
+
+both 1st and 4th command should be executed inside the webbot directory and should be up and running while working with chatbot integrated webpage.
+
+
+
+
+
